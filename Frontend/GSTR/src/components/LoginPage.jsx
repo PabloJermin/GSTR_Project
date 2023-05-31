@@ -1,12 +1,14 @@
 /* eslint-disable react/no-unescaped-entities */
 /* eslint-disable no-unused-vars */
-import React from 'react';
+import React, {useContext} from 'react';
 import { useForm } from 'react-hook-form';
 import { Container, Row, Col, Form, Button } from 'react-bootstrap';
 import imageSrc from '../images/Allura - Feedback Session.png';
 import '../CSS/LoginPage.css';
+import AuthContext from '../context/AuthContext';
 
 function Login() {
+    let {loginUser} = useContext(AuthContext) 
     const { register, handleSubmit, formState: { errors } } = useForm();
 
     const onSubmit = (data) => {
@@ -32,18 +34,18 @@ function Login() {
             <Row className="justify-content-center pt-2 pb-5 ">
                 <Col xs={12} md={6} className='ps-2 pe-5'>
                     <h2 className='text-center'>Login</h2>
-                    <Form onSubmit={handleSubmit(onSubmit)}>
+                    <Form onSubmit={loginUser}>
                         <Form.Group controlId="name">
                             <Form.Label>Name</Form.Label>
                             <Form.Control type="text" {...register('name', { required: true })} />
                             {errors.name && <Form.Text className="error">Name is required</Form.Text>}
                         </Form.Group>
-                        <Form.Group controlId="email">
+                        <Form.Group controlId="email" name = 'email'>
                             <Form.Label>Email</Form.Label>
                             <Form.Control type="email" {...register('email', { required: true, pattern: /^\S+@\S+$/i })} />
                             {errors.email && <Form.Text className="error">Invalid email address</Form.Text>}
                         </Form.Group>
-                        <Form.Group controlId="password">
+                        <Form.Group controlId="password" name = "password">
                             <Form.Label>Password</Form.Label>
                             <Form.Control type="password" {...register('password', { required: true, minLength: 6 })} />
                             {errors.password && <Form.Text className="error">Password must be at least 6 characters</Form.Text>}
