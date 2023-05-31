@@ -1,0 +1,310 @@
+INFO 2023-05-23 09:12:32,662 autoreload 11552 8656 Watching for file changes with StatReloader
+INFO 2023-05-23 09:12:51,020 basehttp 11552 6076 "GET /gst/gstr_2a_merge_excel HTTP/1.1" 200 4319
+INFO 2023-05-23 09:12:53,311 basehttp 11552 6076 "GET /gstr_home/ HTTP/1.1" 200 5406
+INFO 2023-05-23 09:12:58,462 basehttp 11552 6076 "GET /gst/gstr_2B_json_to_excel HTTP/1.1" 200 4325
+INFO 2023-05-23 09:13:00,033 basehttp 11552 6076 "GET /gst/gstr_2b_merge_excel HTTP/1.1" 200 4306
+INFO 2023-05-23 09:13:01,307 basehttp 11552 6076 "GET /gst/gstr_3B_pdf_to_excel HTTP/1.1" 200 4312
+INFO 2023-05-23 09:13:02,696 basehttp 11552 6076 "GET /gst/gst_number_check HTTP/1.1" 200 8143
+INFO 2023-05-23 09:13:11,345 basehttp 11552 6076 "GET /gst/gstr_1_json_to_excel HTTP/1.1" 200 4310
+INFO 2023-05-23 09:14:20,431 basehttp 11552 6076 "POST /gst/gstr_1_json_to_excel HTTP/1.1" 200 66154
+INFO 2023-05-29 21:55:36,353 autoreload 12232 2348 Watching for file changes with StatReloader
+INFO 2023-05-29 21:56:05,861 autoreload 9816 2836 Watching for file changes with StatReloader
+INFO 2023-05-29 21:56:23,751 basehttp 9816 11056 "GET / HTTP/1.1" 200 2556
+WARNING 2023-05-29 21:56:23,856 log 9816 11056 Not Found: /static/css/style.css
+WARNING 2023-05-29 21:56:23,857 basehttp 9816 11056 "GET /static/css/style.css HTTP/1.1" 404 179
+WARNING 2023-05-29 21:56:23,940 log 9816 11056 Not Found: /static/css/style.css
+WARNING 2023-05-29 21:56:23,941 basehttp 9816 11056 "GET /static/css/style.css HTTP/1.1" 404 179
+WARNING 2023-05-29 21:56:24,353 log 9816 11056 Not Found: /favicon.ico
+WARNING 2023-05-29 21:56:24,354 basehttp 9816 11056 "GET /favicon.ico HTTP/1.1" 404 179
+INFO 2023-05-29 21:56:28,792 basehttp 9816 11056 "GET /register/ HTTP/1.1" 200 2712
+WARNING 2023-05-29 21:56:28,816 log 9816 11056 Not Found: /static/css/style.css
+WARNING 2023-05-29 21:56:28,820 basehttp 9816 11056 "GET /static/css/style.css HTTP/1.1" 404 179
+INFO 2023-05-31 09:10:49,517 autoreload 7028 4668 Watching for file changes with StatReloader
+INFO 2023-05-31 09:10:58,972 basehttp 7028 5048 "GET / HTTP/1.1" 200 2556
+WARNING 2023-05-31 09:10:59,053 log 7028 5048 Not Found: /static/css/style.css
+WARNING 2023-05-31 09:10:59,054 basehttp 7028 5048 "GET /static/css/style.css HTTP/1.1" 404 179
+WARNING 2023-05-31 09:10:59,143 log 7028 5048 Not Found: /static/css/style.css
+WARNING 2023-05-31 09:10:59,145 basehttp 7028 5048 "GET /static/css/style.css HTTP/1.1" 404 179
+WARNING 2023-05-31 09:10:59,419 log 7028 5048 Not Found: /favicon.ico
+WARNING 2023-05-31 09:10:59,421 basehttp 7028 5048 "GET /favicon.ico HTTP/1.1" 404 179
+WARNING 2023-05-31 09:11:04,618 log 7028 5048 Not Found: /api/
+WARNING 2023-05-31 09:11:04,620 basehttp 7028 5048 "GET /api/ HTTP/1.1" 404 179
+WARNING 2023-05-31 09:11:10,360 log 7028 5048 Not Found: /api/token/
+WARNING 2023-05-31 09:11:10,362 basehttp 7028 5048 "GET /api/token/ HTTP/1.1" 404 179
+INFO 2023-05-31 09:22:17,333 autoreload 11204 8880 Watching for file changes with StatReloader
+INFO 2023-05-31 09:22:36,402 autoreload 11204 8880 C:\Users\USER\Desktop\Project\efficient_apps-main\api\urls.py changed, reloading.
+INFO 2023-05-31 09:22:37,804 autoreload 5244 10248 Watching for file changes with StatReloader
+WARNING 2023-05-31 09:22:39,252 log 5244 5152 Not Found: /api/token/
+WARNING 2023-05-31 09:22:39,253 basehttp 5244 5152 "GET /api/token/ HTTP/1.1" 404 179
+WARNING 2023-05-31 09:22:41,882 log 5244 5152 Not Found: /api/token/
+WARNING 2023-05-31 09:22:41,883 basehttp 5244 5152 "GET /api/token/ HTTP/1.1" 404 179
+INFO 2023-05-31 09:22:57,602 autoreload 5244 10248 C:\Users\USER\Desktop\Project\efficient_apps-main\gstr\settings.py changed, reloading.
+INFO 2023-05-31 09:22:58,848 autoreload 5288 8500 Watching for file changes with StatReloader
+WARNING 2023-05-31 09:23:00,632 log 5288 11052 Not Found: /api/token/
+WARNING 2023-05-31 09:23:00,633 basehttp 5288 11052 "GET /api/token/ HTTP/1.1" 404 4235
+INFO 2023-05-31 09:23:54,588 autoreload 5288 8500 C:\Users\USER\Desktop\Project\efficient_apps-main\api\urls.py changed, reloading.
+INFO 2023-05-31 09:23:55,885 autoreload 520 5644 Watching for file changes with StatReloader
+WARNING 2023-05-31 09:23:57,625 log 520 6108 Not Found: /api/token/
+WARNING 2023-05-31 09:23:57,626 basehttp 520 6108 "GET /api/token/ HTTP/1.1" 404 4228
+WARNING 2023-05-31 09:23:58,514 log 520 6108 Not Found: /api/token/
+WARNING 2023-05-31 09:23:58,515 basehttp 520 6108 "GET /api/token/ HTTP/1.1" 404 4228
+INFO 2023-05-31 09:25:39,934 basehttp 520 6108 "GET /api/ HTTP/1.1" 200 34
+INFO 2023-05-31 09:28:48,311 autoreload 520 5644 C:\Users\USER\Desktop\Project\efficient_apps-main\gstr\settings.py changed, reloading.
+INFO 2023-05-31 09:28:49,811 autoreload 4448 8360 Watching for file changes with StatReloader
+INFO 2023-05-31 09:32:28,282 autoreload 7312 5532 Watching for file changes with StatReloader
+WARNING 2023-05-31 09:32:40,653 log 7312 11152 Not Found: /api/token/
+WARNING 2023-05-31 09:32:40,654 basehttp 7312 11152 "GET /api/token/ HTTP/1.1" 404 4228
+WARNING 2023-05-31 09:32:44,567 log 7312 11152 Not Found: /api/token/
+WARNING 2023-05-31 09:32:44,571 basehttp 7312 11152 "GET /api/token/ HTTP/1.1" 404 4228
+INFO 2023-05-31 09:32:49,963 basehttp 7312 11152 "GET /api/ HTTP/1.1" 200 5185
+INFO 2023-05-31 09:32:49,998 basehttp 7312 11152 "GET /static/rest_framework/css/bootstrap.min.css HTTP/1.1" 304 0
+INFO 2023-05-31 09:32:49,998 basehttp 7312 2404 "GET /static/rest_framework/js/ajax-form.js HTTP/1.1" 304 0
+INFO 2023-05-31 09:32:50,002 basehttp 7312 11152 "GET /static/rest_framework/js/bootstrap.min.js HTTP/1.1" 304 0
+INFO 2023-05-31 09:32:50,002 basehttp 7312 2404 "GET /static/rest_framework/js/default.js HTTP/1.1" 304 0
+INFO 2023-05-31 09:32:50,012 basehttp 7312 11152 "GET /static/rest_framework/js/jquery-3.5.1.min.js HTTP/1.1" 304 0
+INFO 2023-05-31 09:32:50,012 basehttp 7312 2404 "GET /static/rest_framework/js/csrf.js HTTP/1.1" 304 0
+INFO 2023-05-31 09:32:50,045 basehttp 7312 3348 "GET /static/rest_framework/css/default.css HTTP/1.1" 304 0
+INFO 2023-05-31 09:32:50,052 basehttp 7312 8532 "GET /static/rest_framework/css/bootstrap-tweaks.css HTTP/1.1" 304 0
+INFO 2023-05-31 09:32:50,053 basehttp 7312 7940 "GET /static/rest_framework/js/prettify-min.js HTTP/1.1" 304 0
+INFO 2023-05-31 09:32:50,053 basehttp 7312 4664 "GET /static/rest_framework/css/prettify.css HTTP/1.1" 304 0
+INFO 2023-05-31 09:32:50,064 basehttp 7312 4664 "GET /static/rest_framework/img/grid.png HTTP/1.1" 304 0
+INFO 2023-05-31 10:09:54,364 autoreload 7312 5532 C:\Users\USER\Desktop\Project\efficient_apps-main\api\urls.py changed, reloading.
+INFO 2023-05-31 10:09:55,641 autoreload 5708 284 Watching for file changes with StatReloader
+INFO 2023-05-31 10:10:46,765 autoreload 5708 284 C:\Users\USER\Desktop\Project\efficient_apps-main\gstr\settings.py changed, reloading.
+INFO 2023-05-31 10:10:49,124 autoreload 8152 12224 Watching for file changes with StatReloader
+INFO 2023-05-31 10:11:53,950 autoreload 8152 12224 C:\Users\USER\Desktop\Project\efficient_apps-main\api\urls.py changed, reloading.
+INFO 2023-05-31 10:11:55,791 autoreload 8532 5408 Watching for file changes with StatReloader
+INFO 2023-05-31 10:13:09,729 autoreload 8532 5408 C:\Users\USER\Desktop\Project\efficient_apps-main\gstr\settings.py changed, reloading.
+INFO 2023-05-31 10:13:11,169 autoreload 12104 7980 Watching for file changes with StatReloader
+INFO 2023-05-31 10:13:43,879 autoreload 12104 7980 C:\Users\USER\Desktop\Project\efficient_apps-main\gstr\settings.py changed, reloading.
+INFO 2023-05-31 10:13:45,656 autoreload 2708 2852 Watching for file changes with StatReloader
+INFO 2023-05-31 10:14:14,755 autoreload 2708 2852 C:\Users\USER\Desktop\Project\efficient_apps-main\gstr\settings.py changed, reloading.
+INFO 2023-05-31 10:14:16,241 autoreload 11540 10528 Watching for file changes with StatReloader
+INFO 2023-05-31 10:19:51,250 basehttp 11540 11524 "GET /api/ HTTP/1.1" 200 5185
+WARNING 2023-05-31 10:19:55,542 log 11540 11524 Method Not Allowed: /api/token/
+WARNING 2023-05-31 10:19:55,543 basehttp 11540 11524 "GET /api/token/ HTTP/1.1" 405 7732
+WARNING 2023-05-31 10:20:14,807 log 11540 11524 Unauthorized: /api/token/
+WARNING 2023-05-31 10:20:14,809 basehttp 11540 11524 "POST /api/token/ HTTP/1.1" 401 7672
+INFO 2023-05-31 10:21:28,220 autoreload 7676 3572 Watching for file changes with StatReloader
+ERROR 2023-05-31 10:21:42,861 log 7676 8740 Internal Server Error: /api/token/
+Traceback (most recent call last):
+  File "C:\Users\USER\Desktop\Project\venv\Lib\site-packages\django\db\backends\utils.py", line 89, in _execute
+    return self.cursor.execute(sql, params)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\USER\Desktop\Project\venv\Lib\site-packages\django\db\backends\sqlite3\base.py", line 328, in execute
+    return super().execute(query, params)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+sqlite3.OperationalError: no such table: token_blacklist_outstandingtoken
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\USER\Desktop\Project\venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\USER\Desktop\Project\venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\USER\Desktop\Project\venv\Lib\site-packages\django\views\decorators\csrf.py", line 56, in wrapper_view
+    return view_func(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\USER\Desktop\Project\venv\Lib\site-packages\django\views\generic\base.py", line 104, in view
+    return self.dispatch(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\USER\Desktop\Project\venv\Lib\site-packages\rest_framework\views.py", line 509, in dispatch
+    response = self.handle_exception(exc)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\USER\Desktop\Project\venv\Lib\site-packages\rest_framework\views.py", line 469, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "C:\Users\USER\Desktop\Project\venv\Lib\site-packages\rest_framework\views.py", line 480, in raise_uncaught_exception
+    raise exc
+  File "C:\Users\USER\Desktop\Project\venv\Lib\site-packages\rest_framework\views.py", line 506, in dispatch
+    response = handler(request, *args, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\USER\Desktop\Project\venv\Lib\site-packages\rest_framework_simplejwt\views.py", line 43, in post
+    serializer.is_valid(raise_exception=True)
+  File "C:\Users\USER\Desktop\Project\venv\Lib\site-packages\rest_framework\serializers.py", line 227, in is_valid
+    self._validated_data = self.run_validation(self.initial_data)
+                           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\USER\Desktop\Project\venv\Lib\site-packages\rest_framework\serializers.py", line 429, in run_validation
+    value = self.validate(value)
+            ^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\USER\Desktop\Project\venv\Lib\site-packages\rest_framework_simplejwt\serializers.py", line 70, in validate
+    refresh = self.get_token(self.user)
+              ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\USER\Desktop\Project\venv\Lib\site-packages\rest_framework_simplejwt\serializers.py", line 61, in get_token
+    return cls.token_class.for_user(user)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\USER\Desktop\Project\venv\Lib\site-packages\rest_framework_simplejwt\tokens.py", line 261, in for_user
+    OutstandingToken.objects.create(
+  File "C:\Users\USER\Desktop\Project\venv\Lib\site-packages\django\db\models\manager.py", line 87, in manager_method
+    return getattr(self.get_queryset(), name)(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\USER\Desktop\Project\venv\Lib\site-packages\django\db\models\query.py", line 658, in create
+    obj.save(force_insert=True, using=self.db)
+  File "C:\Users\USER\Desktop\Project\venv\Lib\site-packages\django\db\models\base.py", line 814, in save
+    self.save_base(
+  File "C:\Users\USER\Desktop\Project\venv\Lib\site-packages\django\db\models\base.py", line 877, in save_base
+    updated = self._save_table(
+              ^^^^^^^^^^^^^^^^^
+  File "C:\Users\USER\Desktop\Project\venv\Lib\site-packages\django\db\models\base.py", line 1020, in _save_table
+    results = self._do_insert(
+              ^^^^^^^^^^^^^^^^
+  File "C:\Users\USER\Desktop\Project\venv\Lib\site-packages\django\db\models\base.py", line 1061, in _do_insert
+    return manager._insert(
+           ^^^^^^^^^^^^^^^^
+  File "C:\Users\USER\Desktop\Project\venv\Lib\site-packages\django\db\models\manager.py", line 87, in manager_method
+    return getattr(self.get_queryset(), name)(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\USER\Desktop\Project\venv\Lib\site-packages\django\db\models\query.py", line 1805, in _insert
+    return query.get_compiler(using=using).execute_sql(returning_fields)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\USER\Desktop\Project\venv\Lib\site-packages\django\db\models\sql\compiler.py", line 1820, in execute_sql
+    cursor.execute(sql, params)
+  File "C:\Users\USER\Desktop\Project\venv\Lib\site-packages\django\db\backends\utils.py", line 102, in execute
+    return super().execute(sql, params)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\USER\Desktop\Project\venv\Lib\site-packages\django\db\backends\utils.py", line 67, in execute
+    return self._execute_with_wrappers(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\USER\Desktop\Project\venv\Lib\site-packages\django\db\backends\utils.py", line 80, in _execute_with_wrappers
+    return executor(sql, params, many, context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\USER\Desktop\Project\venv\Lib\site-packages\django\db\backends\utils.py", line 84, in _execute
+    with self.db.wrap_database_errors:
+  File "C:\Users\USER\Desktop\Project\venv\Lib\site-packages\django\db\utils.py", line 91, in __exit__
+    raise dj_exc_value.with_traceback(traceback) from exc_value
+  File "C:\Users\USER\Desktop\Project\venv\Lib\site-packages\django\db\backends\utils.py", line 89, in _execute
+    return self.cursor.execute(sql, params)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\USER\Desktop\Project\venv\Lib\site-packages\django\db\backends\sqlite3\base.py", line 328, in execute
+    return super().execute(query, params)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+django.db.utils.OperationalError: no such table: token_blacklist_outstandingtoken
+ERROR 2023-05-31 10:21:42,916 basehttp 7676 8740 "POST /api/token/ HTTP/1.1" 500 214653
+ERROR 2023-05-31 10:22:24,922 log 7676 8740 Internal Server Error: /api/token/
+Traceback (most recent call last):
+  File "C:\Users\USER\Desktop\Project\venv\Lib\site-packages\django\db\backends\utils.py", line 89, in _execute
+    return self.cursor.execute(sql, params)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\USER\Desktop\Project\venv\Lib\site-packages\django\db\backends\sqlite3\base.py", line 328, in execute
+    return super().execute(query, params)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+sqlite3.OperationalError: no such table: token_blacklist_outstandingtoken
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\USER\Desktop\Project\venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\USER\Desktop\Project\venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\USER\Desktop\Project\venv\Lib\site-packages\django\views\decorators\csrf.py", line 56, in wrapper_view
+    return view_func(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\USER\Desktop\Project\venv\Lib\site-packages\django\views\generic\base.py", line 104, in view
+    return self.dispatch(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\USER\Desktop\Project\venv\Lib\site-packages\rest_framework\views.py", line 509, in dispatch
+    response = self.handle_exception(exc)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\USER\Desktop\Project\venv\Lib\site-packages\rest_framework\views.py", line 469, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "C:\Users\USER\Desktop\Project\venv\Lib\site-packages\rest_framework\views.py", line 480, in raise_uncaught_exception
+    raise exc
+  File "C:\Users\USER\Desktop\Project\venv\Lib\site-packages\rest_framework\views.py", line 506, in dispatch
+    response = handler(request, *args, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\USER\Desktop\Project\venv\Lib\site-packages\rest_framework_simplejwt\views.py", line 43, in post
+    serializer.is_valid(raise_exception=True)
+  File "C:\Users\USER\Desktop\Project\venv\Lib\site-packages\rest_framework\serializers.py", line 227, in is_valid
+    self._validated_data = self.run_validation(self.initial_data)
+                           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\USER\Desktop\Project\venv\Lib\site-packages\rest_framework\serializers.py", line 429, in run_validation
+    value = self.validate(value)
+            ^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\USER\Desktop\Project\venv\Lib\site-packages\rest_framework_simplejwt\serializers.py", line 70, in validate
+    refresh = self.get_token(self.user)
+              ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\USER\Desktop\Project\venv\Lib\site-packages\rest_framework_simplejwt\serializers.py", line 61, in get_token
+    return cls.token_class.for_user(user)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\USER\Desktop\Project\venv\Lib\site-packages\rest_framework_simplejwt\tokens.py", line 261, in for_user
+    OutstandingToken.objects.create(
+  File "C:\Users\USER\Desktop\Project\venv\Lib\site-packages\django\db\models\manager.py", line 87, in manager_method
+    return getattr(self.get_queryset(), name)(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\USER\Desktop\Project\venv\Lib\site-packages\django\db\models\query.py", line 658, in create
+    obj.save(force_insert=True, using=self.db)
+  File "C:\Users\USER\Desktop\Project\venv\Lib\site-packages\django\db\models\base.py", line 814, in save
+    self.save_base(
+  File "C:\Users\USER\Desktop\Project\venv\Lib\site-packages\django\db\models\base.py", line 877, in save_base
+    updated = self._save_table(
+              ^^^^^^^^^^^^^^^^^
+  File "C:\Users\USER\Desktop\Project\venv\Lib\site-packages\django\db\models\base.py", line 1020, in _save_table
+    results = self._do_insert(
+              ^^^^^^^^^^^^^^^^
+  File "C:\Users\USER\Desktop\Project\venv\Lib\site-packages\django\db\models\base.py", line 1061, in _do_insert
+    return manager._insert(
+           ^^^^^^^^^^^^^^^^
+  File "C:\Users\USER\Desktop\Project\venv\Lib\site-packages\django\db\models\manager.py", line 87, in manager_method
+    return getattr(self.get_queryset(), name)(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\USER\Desktop\Project\venv\Lib\site-packages\django\db\models\query.py", line 1805, in _insert
+    return query.get_compiler(using=using).execute_sql(returning_fields)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\USER\Desktop\Project\venv\Lib\site-packages\django\db\models\sql\compiler.py", line 1820, in execute_sql
+    cursor.execute(sql, params)
+  File "C:\Users\USER\Desktop\Project\venv\Lib\site-packages\django\db\backends\utils.py", line 102, in execute
+    return super().execute(sql, params)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\USER\Desktop\Project\venv\Lib\site-packages\django\db\backends\utils.py", line 67, in execute
+    return self._execute_with_wrappers(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\USER\Desktop\Project\venv\Lib\site-packages\django\db\backends\utils.py", line 80, in _execute_with_wrappers
+    return executor(sql, params, many, context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\USER\Desktop\Project\venv\Lib\site-packages\django\db\backends\utils.py", line 84, in _execute
+    with self.db.wrap_database_errors:
+  File "C:\Users\USER\Desktop\Project\venv\Lib\site-packages\django\db\utils.py", line 91, in __exit__
+    raise dj_exc_value.with_traceback(traceback) from exc_value
+  File "C:\Users\USER\Desktop\Project\venv\Lib\site-packages\django\db\backends\utils.py", line 89, in _execute
+    return self.cursor.execute(sql, params)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\USER\Desktop\Project\venv\Lib\site-packages\django\db\backends\sqlite3\base.py", line 328, in execute
+    return super().execute(query, params)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+django.db.utils.OperationalError: no such table: token_blacklist_outstandingtoken
+ERROR 2023-05-31 10:22:24,945 basehttp 7676 8740 "POST /api/token/ HTTP/1.1" 500 214781
+WARNING 2023-05-31 10:22:25,194 log 7676 8740 Not Found: /favicon.ico
+WARNING 2023-05-31 10:22:25,195 basehttp 7676 8740 "GET /favicon.ico HTTP/1.1" 404 4019
+INFO 2023-05-31 10:35:53,945 autoreload 9816 7068 Watching for file changes with StatReloader
+INFO 2023-05-31 10:36:04,226 basehttp 9816 4964 "POST /api/token/ HTTP/1.1" 200 8176
+WARNING 2023-05-31 10:36:43,767 log 9816 4964 Method Not Allowed: /api/token/refresh/
+WARNING 2023-05-31 10:36:43,768 basehttp 9816 4964 "GET /api/token/refresh/ HTTP/1.1" 405 7556
+WARNING 2023-05-31 10:36:46,762 log 9816 4964 Method Not Allowed: /api/token/refresh/
+WARNING 2023-05-31 10:36:46,765 basehttp 9816 4964 "GET /api/token/refresh/ HTTP/1.1" 405 7556
+INFO 2023-05-31 10:39:12,910 autoreload 9816 7068 C:\Users\USER\Desktop\Project\efficient_apps-main\api\views.py changed, reloading.
+INFO 2023-05-31 10:39:15,156 autoreload 7912 4076 Watching for file changes with StatReloader
+INFO 2023-05-31 10:45:14,514 autoreload 7912 4076 C:\Users\USER\Desktop\Project\efficient_apps-main\api\views.py changed, reloading.
+INFO 2023-05-31 10:45:16,283 autoreload 11656 5524 Watching for file changes with StatReloader
+INFO 2023-05-31 10:45:56,776 autoreload 11656 5524 C:\Users\USER\Desktop\Project\efficient_apps-main\api\urls.py changed, reloading.
+INFO 2023-05-31 10:45:58,799 autoreload 1920 5764 Watching for file changes with StatReloader
+INFO 2023-05-31 10:46:44,842 autoreload 1920 5764 C:\Users\USER\Desktop\Project\efficient_apps-main\api\urls.py changed, reloading.
+INFO 2023-05-31 10:46:46,273 autoreload 4856 2916 Watching for file changes with StatReloader
+INFO 2023-05-31 10:47:00,554 autoreload 4856 2916 C:\Users\USER\Desktop\Project\efficient_apps-main\api\views.py changed, reloading.
+INFO 2023-05-31 10:47:02,929 autoreload 8556 11376 Watching for file changes with StatReloader
+INFO 2023-05-31 10:47:20,483 autoreload 8556 11376 C:\Users\USER\Desktop\Project\efficient_apps-main\api\views.py changed, reloading.
+INFO 2023-05-31 10:47:22,089 autoreload 11704 4008 Watching for file changes with StatReloader
+INFO 2023-05-31 10:47:31,863 basehttp 11704 940 "POST /api/token/ HTTP/1.1" 200 8124
+INFO 2023-05-31 10:47:41,222 basehttp 11704 940 "POST /api/token/ HTTP/1.1" 200 8124
+INFO 2023-05-31 10:52:51,635 autoreload 11704 4008 C:\Users\USER\Desktop\Project\efficient_apps-main\gstr\settings.py changed, reloading.
+INFO 2023-05-31 10:52:53,487 autoreload 10936 10876 Watching for file changes with StatReloader
+INFO 2023-05-31 10:54:55,349 autoreload 10936 10876 C:\Users\USER\Desktop\Project\efficient_apps-main\gstr\settings.py changed, reloading.
+INFO 2023-05-31 10:54:56,837 autoreload 2980 552 Watching for file changes with StatReloader
+INFO 2023-05-31 10:55:15,720 autoreload 2980 552 C:\Users\USER\Desktop\Project\efficient_apps-main\gstr\settings.py changed, reloading.
+INFO 2023-05-31 10:55:17,617 autoreload 11796 4036 Watching for file changes with StatReloader
+INFO 2023-05-31 11:02:01,148 basehttp 11796 10508 "GET / HTTP/1.1" 200 2556
+WARNING 2023-05-31 11:02:01,198 basehttp 11796 10508 "GET /static/css/style.css HTTP/1.1" 404 1798
